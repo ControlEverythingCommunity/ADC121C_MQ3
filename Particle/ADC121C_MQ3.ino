@@ -11,7 +11,7 @@
 #define Addr 0x50
 
 int raw_adc = 0;
-float concentration = 0.0;
+double concentration = 0.0;
 
 void setup()
 {
