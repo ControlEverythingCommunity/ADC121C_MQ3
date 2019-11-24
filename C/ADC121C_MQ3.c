@@ -9,7 +9,7 @@
 #include <linux/i2c-dev.h>
 #include <sys/ioctl.h>
 #include <fcntl.h>
-
+//simply doing
 void main() 
 {
 	// Create I2C bus
