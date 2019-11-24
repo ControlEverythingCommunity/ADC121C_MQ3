@@ -5,7 +5,7 @@
 // https://www.controleverything.com/content/Gas?sku=ADC121C_I2CGAS_MQ3#tabs-0-product_tabset-2
 
 #include <Wire.h>
-
+//Manny
 // ADC121C_MQ3 I2C address is 0x50(90)
 #define Addr 0x50
 
